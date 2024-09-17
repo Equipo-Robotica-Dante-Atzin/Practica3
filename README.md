@@ -84,7 +84,12 @@ Para finalizar se siguó en la misma sintonía de programación para continuar l
 
 ## Conclusiones
 
-***Atzin Morales Alejandre:***
+***Atzin Morales Alejandre:*** El comando GO es un comando de movimiento que prioriza la velocidad sobre la precisión en la trayectoria, ya que solo interpola entre el punto inicial y el final, siendo útil cuando la rapidez es más importante que la exactitud. 
+
+El laboratorio de robótica destacó la relevancia de interactuar directamente con el brazo robótico para obtener resultados precisos en la programación de movimientos. Al usar el brazo para una tarea simple, como tomar y soltar un fusible, permitió poder identificar la importancia de coordinar bien los movimientos y el control de la pinza mediante los comandos adecuados. Esto garantiza no solo la correcta ejecución de la tarea, sino también la repetitividad del proceso. 
+
+Por último, la práctica demostró la importancia de una programación cuidadosa al definir los puntos, asegurando que el brazo siga las trayectorias previstas con precisión y sin colisiones, lo que mejora la eficiencia en aplicaciones industriales.
+
 
 ***Dante Mejía Silva:*** 
 En conclusión, la práctica de laboratorio en robótica permitió programar y ejecutar de manera eficiente una secuencia compleja con el robot Epson. A través de la planificación cuidadosa de las trayectorias, se logró que el robot tomara y moviera fusibles con precisión, evitando colisiones y errores. La correcta manipulación de las coordenadas X, Y y Z, así como el uso de comandos para controlar la pinza, fueron claves para garantizar la seguridad y efectividad del proceso.
